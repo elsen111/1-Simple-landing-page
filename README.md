@@ -1,5 +1,5 @@
 FrontEnd Project
-#Used technologies:
+\nUsed technologies:
   HTML
   CSS
   Javascript
